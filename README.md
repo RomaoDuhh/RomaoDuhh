@@ -3,7 +3,7 @@ Em  Manutenção...
 
 - 👋 Hi, I’m Eduardo Romao.
 - 👀 I’m interested in  Data Science & Big Data  
-- 🌱  Estou cursando atualmente 6/8  Ciencias da Computação
+- 🌱 I am currently studying 6/8 Computer Science
 - 💞️ I am looking for knowledge in other areas in technology.
 - 📫 How to reach me ....
 
