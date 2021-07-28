@@ -1,5 +1,5 @@
 
-## Hi There 👋👋👋, my name is Eduardo Romão
+## Hi there 👋👋👋, my name is Eduardo Romão
 
 - 👀 I’m interested in  Data Science & Big Data.  
 - 🌱 I am currently studying 6/8 Computer Science.
@@ -29,18 +29,18 @@
   <img align="center" alt="Duhh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Duhh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Duhh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
 </div>
   
   ##
  
 <div> 
   
- 
   ![Snake animation](https://github.com/RomaoDuhh/RomaoDuhh/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
+  
+  
+  
 <!---
 RomaoDuhh/RomaoDuhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
