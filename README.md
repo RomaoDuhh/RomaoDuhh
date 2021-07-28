@@ -1,8 +1,8 @@
 
-## Salve!!! 👋👋👋 I'm Eduardo Romão 👋👋👋
+## Hi There 👋👋👋, my name is Eduardo Romão
 
-- 👀 I’m interested in  Data Science & Big Data  
-- 🌱 I am currently studying 6/8 Computer Science
+- 👀 I’m interested in  Data Science & Big Data.  
+- 🌱 I am currently studying 6/8 Computer Science.
 - 💞️ I am looking for knowledge in other areas in technology.
 - 📫 How to reach me ....
 
