@@ -8,9 +8,7 @@ Em  Manutenção...
 - 📫 How to reach me ....
 
 
-
-
-
+ ![Snake animation](https://github.com/RomaoDuhh/RomaoDuhh/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 RomaoDuhh/RomaoDuhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
