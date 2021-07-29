@@ -8,8 +8,8 @@
 </div>
 
 
-- 🌱 Currently studying 6/8 Computer Science💻
-- 🚀 I am looking for knowledge in other areas in technology
+- 🌱 Currently studying Bachelor of Computer Science 💻
+- 🚀 I am looking for knowledge in other areas in technology 
 - 👀 Searching for knowledge about 
  👨‍💻 Career 
  💻 Tech 
