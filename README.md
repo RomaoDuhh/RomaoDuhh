@@ -1,7 +1,14 @@
 
-## Hi there, my name is Eduardo Romão.
+## Hi there, my name is Eduardo Romão 👋
+<div>
+ 
+ <a href="https://www.linkedin.com/in/eduardo-rom%C3%A3o-a73640179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/duhh_romao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+</div>
 
-- 🌱 Currently studying Computer Science💻
+
+- 🌱 Currently studying 6/8 Computer Science💻
 - 🚀 I am looking for knowledge in other areas in technology
 - 👀 Searching for knowledge about 
  👨‍💻 Career 
@@ -9,18 +16,37 @@
  📆 Events 
  🚀 Courses
  📚 Books 
-- 📫 How to reach me ....
-
-<div>
-  <a href="https://www.youtube.com/channel/UCsX6Rz8Sr30Qiyq1eMNAacg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/duhh_romao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-rom%C3%A3o-a73640179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:duhhromao@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:duhhromao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
  
-  ##
+
+ 
+## 📚 Things I'm currently learning:
+
+- Development in PHP and Javascript languages
+- Framework Laravel 
+- SQL, MySql and Postgres database
+- Git/Github
+- API development/integration
+
+## 🛠 Projects I'm currently working on:
+ 
+ - Creating my discord bot
+ - Creating a to-do app for my personal use 
+ - Data Science for Business and Business
+
+## 👊Things I'm challenging myself with:
+
+-
+-
+-
   
+ ## 💪Skills:
+ 
+ -
+ -
+ -
+ 
+ ##
+ 
   <div> 
   <a href="https://github.com/RomaoDuhh">
   <img align="center" alt="Imagem-yoda" src="https://media.giphy.com/media/2fQ1Gq3KOpvNs4NTmu/giphy-downsized.gif">
